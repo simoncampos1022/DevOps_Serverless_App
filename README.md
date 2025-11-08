@@ -1,10 +1,5 @@
 # Serverless Todo App - DevOps AWS Project
 
-[![Frontend CI/CD](https://github.com/HasanAshab/serverless-todo-app/actions/workflows/frontend-cicd.yaml/badge.svg)](https://github.com/HasanAshab/serverless-todo-app/actions/workflows/frontend-cicd.yaml)
-[![Backend CI/CD](https://github.com/HasanAshab/serverless-todo-app/actions/workflows/backend-cicd.yaml/badge.svg)](https://github.com/HasanAshab/serverless-todo-app/actions/workflows/backend-cicd.yaml)
-[![Infrastructure CI/CD](https://github.com/HasanAshab/serverless-todo-app/actions/workflows/terraform-cicd.yaml/badge.svg)](https://github.com/HasanAshab/serverless-todo-app/actions/workflows/terraform-cicd.yaml)
-[![Drift Detection](https://github.com/HasanAshab/serverless-todo-app/actions/workflows/terraform-drift.yaml/badge.svg)](https://github.com/HasanAshab/serverless-todo-app/actions/workflows/terraform-drift.yaml)
-
 A comprehensive DevOps implementation showcasing modern serverless architecture, automated CI/CD pipelines, and Infrastructure as Code (IaC) practices for a simple todo application on AWS.
 
 ## 🎯 Project Overview
@@ -236,13 +231,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - AWS Community for excellent documentation and best practices
 - Terraform community for infrastructure patterns
 - Open source community for application frameworks
-
-## 📞 Contact
-
-For questions about the DevOps implementation, infrastructure design, or deployment processes:
-
-- **GitHub Issues**: [Create an issue](https://github.com/HasanAshab/serverless-todo-app/issues)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/hasan-ashab)
 
 ---
 
